@@ -1,0 +1,2 @@
+.bookreader{height:100vh;background-color:#fff;display:flex;justify-content:center;flex-direction:column;overflow:hidden}.bookreader .userlist{flex:1 1;overflow-y:scroll}.bookreader .userlist .list{height:30px;line-height:30px}.bookreader .userlist .list .l_left{width:20%;height:30px;float:left}.bookreader .userlist .list .l_center{width:50%;height:30px;float:left}.bookreader .userlist .list .l_right{width:30%;height:30px;float:left}
+/*# sourceMappingURL=24.12d8f712.chunk.css.map */

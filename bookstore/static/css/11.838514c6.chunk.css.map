@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAEA,SACE,YAAa,CACb,qBAAsB,CACtB,YAAa,CACb,eAAgB,CAChB,qBAAsB","file":"11.838514c6.chunk.css","sourcesContent":["\r\n\r\n.bookadd{\r\n  height: 100vh;\r\n  background-color: #fff;\r\n  display: flex;\r\n  overflow: hidden;\r\n  flex-direction: column;\r\n\r\n}\r\n"]}
